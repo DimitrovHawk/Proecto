@@ -1,6 +1,2 @@
 spisuk s novosti
-<<<<<<< HEAD
-spisuka e veren
-=======
-spisuka e greshen
->>>>>>> 93414f2b44da602326abe9432336efa880cc3786
+i vse pak uspqh
